@@ -8,3 +8,4 @@
 - npm install
 - npm run build
 - npm start
+deploy on - https://gracious-bell-720649.netlify.com/
